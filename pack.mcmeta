@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "pack_format": 6,
+        "description": "Stops creepers from destroying blocks but still allows other mobs such as villagers to do so."
+    }
+}
